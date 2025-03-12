@@ -1,17 +1,23 @@
 import Banner from "@/components/shared/Banner";
 import Products from "@/components/shared/Products";
 
-const page = async ({ params }: { params: { slug: string } }) => {
-    const { slug } = await params;
+interface PageProps {
+  params: {
+    slug: string;
+  }
+}
+
+const Page = ({ params }: PageProps) => {
+  const { slug } = params;
   
-    return (
-      <>
+  return (
+    <>
       <Banner />
       <div className="mt-12 w-full">
-      <Products category={slug} />
+        <Products category={slug} />
       </div>
-      </>
-    );
-  };
-  
-export default page;  
+    </>
+  );
+};
+
+export default Page;
