@@ -27,6 +27,7 @@ export default function Icon() {
           color: 'white',
           borderRadius: '50%',
         }}
+       className={`${playfair.className}`}
       >
         W
       </div>
