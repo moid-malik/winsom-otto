@@ -1,0 +1,240 @@
+[
+  {
+    "id": 1,
+    "name": "Shalimar",
+    "category": "best-seller",
+    "slug": "shalimar",
+    "images": [
+      "https://elyscents.pk/cdn/shop/files/royaloud.jpg?v=1720595888&width=360"
+    ],
+    "description": "Shalimar is a luxurious oriental fragrance by Guerlain, featuring notes of bergamot, iris, jasmine, rose, and vanilla. It has been a timeless classic since its release in 1925.",
+    "price": 4369,
+    "discount": 15,
+    "size": "90ml",
+    "reviews": 4.8,
+    "notes": "Bergamot, Lemon, Iris, Jasmine, Rose, Vanilla, Tonka Bean, Sandalwood",
+    "stock": 0,
+    "sales": 500
+  },
+  {
+    "id": 2,
+    "name": "Poison",
+    "category": "for-women",
+    "slug": "poison",
+    "images": [
+      "https://elyscents.pk/cdn/shop/files/exoticplus.jpg?v=1720592826&width=360"
+    ],
+    "description": "Poison by Christian Dior is a bold and mysterious floral fragrance, blending notes of coriander, tuberose, and opopanax. Since its launch in 1985, it has become synonymous with seduction and allure.",
+    "price": 8120,
+    "discount": 0,
+    "size": "100ml",
+    "reviews": 4.6,
+    "notes": "Coriander, Plum, Anise, Tuberose, Rose, Jasmine, Opopanax, Cedar, Amber",
+    "stock": 40,
+    "sales": 450
+  },
+  {
+    "id": 3,
+    "name": "La Vie Est Belle",
+    "category": "new-arrival",
+    "slug": "la-vie-est-belle",
+    "images": [
+      "https://elyscents.pk/cdn/shop/files/salsaspirit.jpg?v=1720595948&width=360"
+    ],
+    "description": "La Vie Est Belle by Lancôme is a sweet and elegant gourmand fragrance featuring iris, patchouli, and vanilla, making life more beautiful with every spray.",
+    "price": 4799,
+    "discount": 0,
+    "size": "75ml",
+    "reviews": 4.9,
+    "notes": "Black Currant, Pear, Iris, Jasmine, Orange Blossom, Praline, Vanilla, Patchouli, Tonka Bean",
+    "stock": 70,
+    "sales": 600
+  },
+  {
+    "id": 4,
+    "name": "Acqua di Gio",
+    "category": "for-men",
+    "slug": "acqua-di-gio",
+    "images": [
+      "https://elyscents.pk/cdn/shop/files/wildessence.jpg?v=1720596101&width=360"
+    ],
+    "description": "Acqua di Gio by Giorgio Armani is a fresh, aquatic fragrance with citrus and marine notes, perfect for a clean and masculine scent.",
+    "price": 1500,
+    "discount": 8,
+    "size": "100ml",
+    "reviews": 4.7,
+    "notes": "Lime, Lemon, Bergamot, Jasmine, Sea Notes, Cedar, Oakmoss, Musk",
+    "stock": 90,
+    "sales": 700
+  },
+  {
+    "id": 5,
+    "name": "Acqua di Gio",
+    "category": "best-seller",
+    "slug": "acqua-di-gio-2",
+    "images": [
+      "https://elyscents.pk/cdn/shop/files/millions1.jpg?v=1740491796&width=360"
+    ],
+    "description": "Acqua di Gio by Giorgio Armani is a fresh, aquatic fragrance with citrus and marine notes, perfect for a clean and masculine scent.",
+    "price": 2599,
+    "discount": 8,
+    "size": "100ml",
+    "reviews": 4.7,
+    "notes": "Lime, Lemon, Bergamot, Jasmine, Sea Notes, Cedar, Oakmoss, Musk",
+    "stock": 90,
+    "sales": 700
+  },
+  {
+    "id": 6,
+    "name": "Acqua di Gio",
+    "category": "new-arrival",
+    "slug": "acqua-di-gio-3",
+    "images": [
+      "https://elyscents.pk/cdn/shop/files/apex_03b2fe64-7c07-4a04-bdc9-767ef83d9e6e.jpg?v=1720592504&width=360"
+    ],
+    "description": "Acqua di Gio by Giorgio Armani is a fresh, aquatic fragrance with citrus and marine notes, perfect for a clean and masculine scent.",
+    "price": 3667,
+    "discount": 0,
+    "size": "100ml",
+    "reviews": 4.7,
+    "notes": "Lime, Lemon, Bergamot, Jasmine, Sea Notes, Cedar, Oakmoss, Musk",
+    "stock": 90,
+    "sales": 700
+  },
+  {
+    "id": 7,
+    "name": "Acqua di Gio",
+    "category": "for-men",
+    "slug": "acqua-di-gio-2",
+    "images": [
+      "https://elyscents.pk/cdn/shop/files/millions1.jpg?v=1740491796&width=360"
+    ],
+    "description": "Acqua di Gio by Giorgio Armani is a fresh, aquatic fragrance with citrus and marine notes, perfect for a clean and masculine scent.",
+    "price": 7350,
+    "discount": 8,
+    "size": "100ml",
+    "reviews": 4.7,
+    "notes": "Lime, Lemon, Bergamot, Jasmine, Sea Notes, Cedar, Oakmoss, Musk",
+    "stock": 90,
+    "sales": 700
+  },
+  {
+    "id": 8,
+    "name": "Acqua di Gio",
+    "category": "best-seller",
+    "slug": "acqua-di-gio-3",
+    "images": [
+      "https://elyscents.pk/cdn/shop/files/apex_03b2fe64-7c07-4a04-bdc9-767ef83d9e6e.jpg?v=1720592504&width=360"
+    ],
+    "description": "Acqua di Gio by Giorgio Armani is a fresh, aquatic fragrance with citrus and marine notes, perfect for a clean and masculine scent.",
+    "price": 2950,
+    "discount": 0,
+    "size": "100ml",
+    "reviews": 4.7,
+    "notes": "Lime, Lemon, Bergamot, Jasmine, Sea Notes, Cedar, Oakmoss, Musk",
+    "stock": 90,
+    "sales": 700
+  },
+  {
+    "id": 9,
+    "name": "Acqua di Gio",
+    "category": "for-men",
+    "slug": "acqua-di-gio",
+    "images": [
+      "https://elyscents.pk/cdn/shop/files/wildessence.jpg?v=1720596101&width=360"
+    ],
+    "description": "Acqua di Gio by Giorgio Armani is a fresh, aquatic fragrance with citrus and marine notes, perfect for a clean and masculine scent.",
+    "price": 5321,
+    "discount": 8,
+    "size": "100ml",
+    "reviews": 4.7,
+    "notes": "Lime, Lemon, Bergamot, Jasmine, Sea Notes, Cedar, Oakmoss, Musk",
+    "stock": 90,
+    "sales": 700
+  },
+  {
+    "id": 10,
+    "name": "Acqua di Gio",
+    "category": "new-arrival",
+    "slug": "acqua-di-gio-2",
+    "images": [
+      "https://elyscents.pk/cdn/shop/files/millions1.jpg?v=1740491796&width=360"
+    ],
+    "description": "Acqua di Gio by Giorgio Armani is a fresh, aquatic fragrance with citrus and marine notes, perfect for a clean and masculine scent.",
+    "price": 8821,
+    "discount": 8,
+    "size": "100ml",
+    "reviews": 4.7,
+    "notes": "Lime, Lemon, Bergamot, Jasmine, Sea Notes, Cedar, Oakmoss, Musk",
+    "stock": 90,
+    "sales": 700
+  },
+  {
+    "id": 11,
+    "name": "Mystic Essence",
+    "category": "best-seller",
+    "slug": "mystic-essence",
+    "images": [
+      "https://elyscents.pk/cdn/shop/files/royaloud.jpg?v=1720595888&width=360"
+    ],
+    "description": "Mystic Essence is a captivating fragrance that blends spicy, woody, and floral notes for a mesmerizing, unforgettable scent.",
+    "price": 3200,
+    "discount": 0,
+    "size": "100ml",
+    "reviews": 4.5,
+    "notes": "Saffron, Rose, Patchouli, Oud, Musk",
+    "stock": 15,
+    "sales": 120
+  },
+  {
+    "id": 12,
+    "name": "Eternal Glow",
+    "category": "for-women",
+    "slug": "eternal-glow",
+    "images": [
+      "https://elyscents.pk/cdn/shop/files/exoticplus.jpg?v=1720592826&width=360"
+    ],
+    "description": "Eternal Glow is a floral scent with hints of jasmine, amber, and patchouli that create a warm and captivating fragrance.",
+    "price": 5399,
+    "discount": 0,
+    "size": "75ml",
+    "reviews": 4.7,
+    "notes": "Jasmine, Amber, Patchouli, Musk",
+    "stock": 10,
+    "sales": 80
+  },
+  {
+    "id": 13,
+    "name": "Midnight Breeze",
+    "category": "new-arrival",
+    "slug": "midnight-breeze",
+    "images": [
+      "https://elyscents.pk/cdn/shop/files/salsaspirit.jpg?v=1720595948&width=360"
+    ],
+    "description": "Midnight Breeze offers an enchanting fragrance with rich floral notes of rose, violet, and a touch of sandalwood for a luxurious scent.",
+    "price": 7995,
+    "discount": 10,
+    "size": "50ml",
+    "reviews": 4.8,
+    "notes": "Rose, Violet, Sandalwood, Vanilla",
+    "stock": 20,
+    "sales": 150
+  },
+  {
+    "id": 14,
+    "name": "La Vie Est Belle",
+    "category": "new-arrival",
+    "slug": "la-vie-est-belle",
+    "images": [
+      "https://elyscents.pk/cdn/shop/files/salsaspirit.jpg?v=1720595948&width=360"
+    ],
+    "description": "La Vie Est Belle by Lancôme is a sweet and elegant gourmand fragrance featuring iris, patchouli, and vanilla, making life more beautiful with every spray.",
+    "price": 4799,
+    "discount": 0,
+    "size": "75ml",
+    "reviews": 4.9,
+    "notes": "Black Currant, Pear, Iris, Jasmine, Orange Blossom, Praline, Vanilla, Patchouli, Tonka Bean",
+    "stock": 70,
+    "sales": 600
+  }
+]
