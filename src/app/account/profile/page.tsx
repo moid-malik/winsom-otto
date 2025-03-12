@@ -2,10 +2,9 @@
 import { useState } from "react";
 
 export default function AccountPage() {
-  const [isDropdownOpen, setIsDropdownOpen] = useState(false);
   const [isEditingName, setIsEditingName] = useState(false);
   const [name, setName] = useState("Your Name");
-  const [address, setAddress] = useState({
+  const [address] = useState({
     name: "test name",
     street: "testing address",
     city: "Karachi, Shah Faisal Colony",
