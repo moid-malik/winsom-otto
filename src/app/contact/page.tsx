@@ -1,5 +1,5 @@
 "use client";
-import { useForm, ValidationError } from '@formspree/react';
+import { useForm } from '@formspree/react';
 import Link from 'next/link';
 
 const AboutUs = () => {
