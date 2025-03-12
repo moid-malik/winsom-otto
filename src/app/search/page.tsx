@@ -1,12 +1,15 @@
 import Products from "@/components/shared/Products";
 import Banner from "@/components/shared/Banner";
 
-export default function SearchPage({
-  searchParams,
-}: {
-  searchParams: { q: string };
-}) {
-  const query = searchParams.q || "";
+interface SearchPageProps {
+  searchParams: Promise<{
+    q: string;
+  }>;
+}
+
+export default async function SearchPage({ searchParams }: SearchPageProps) {
+  const { q } = await searchParams;
+  const query = q || "";
 
   return (
     <>
