@@ -93,7 +93,7 @@ const SearchBar: React.FC<SearchBarProps> = ({ open, onClose }) => {
                 </ul>
 
                 <div className="border-t px-4 py-3 text-sm text-blue-600 hover:underline cursor-pointer">
-                  <Link onClick={onClose} href={`/search?q=${query}`}>Show all results for "{query}" →</Link>
+                  <Link onClick={onClose} href={`/search?q=${query}`}>Show all results for &ldquo;{query}&rdquo; →</Link>
                 </div>
               </>
             ) : (
