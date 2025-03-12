@@ -14,12 +14,6 @@ interface ProductsProps {
 }
 
 const Products = ({ category, searchQuery = "" }: ProductsProps) => {
-  const validCategories = [
-    "new-arrival",
-    "best-seller",
-    "for-men",
-    "for-women",
-  ];
 
   const [priceRange, setPriceRange] = useState(10000);
   const [inStock, setInStock] = useState(false);
