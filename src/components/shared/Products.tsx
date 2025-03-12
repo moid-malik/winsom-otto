@@ -5,6 +5,8 @@ import data from "@/data/data.json";
 import { FaChevronDown, FaChevronUp, FaSlidersH, FaTimes } from "react-icons/fa";
 import { AnimatePresence, motion } from "framer-motion";
 import Link from "next/link";
+import { usePathname } from 'next/navigation';
+
 
 interface ProductsProps {
   category: string;
@@ -12,7 +14,12 @@ interface ProductsProps {
 }
 
 const Products = ({ category, searchQuery = "" }: ProductsProps) => {
-
+  const validCategories = [
+    "new-arrival",
+    "best-seller",
+    "for-men",
+    "for-women",
+  ];
 
   const [priceRange, setPriceRange] = useState(10000);
   const [inStock, setInStock] = useState(false);
@@ -20,14 +27,15 @@ const Products = ({ category, searchQuery = "" }: ProductsProps) => {
   const [isAvailabilityOpen, setIsAvailabilityOpen] = useState(false);
   const [isSidebarOpen, setIsSidebarOpen] = useState(false);
   const [collectionPage, setCollectionPage] = useState(false);
+  const pathname = usePathname();
 
   useEffect(() => {
-    if (window.location.pathname.includes("/collections") || window.location.pathname.includes("/search")) {
+    if (pathname.includes("/collections") || pathname.includes("/search")) {
       setCollectionPage(true);
     } else {
       setCollectionPage(false);
     }
-  }, [window.location.pathname]);
+  }, [pathname]);
 
   const filteredData = data
     .filter((item) => {
