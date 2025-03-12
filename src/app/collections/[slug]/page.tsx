@@ -1,14 +1,14 @@
 import Banner from "@/components/shared/Banner";
 import Products from "@/components/shared/Products";
 
-interface PageProps {
-  params: {
+interface Props {
+  params: Promise<{
     slug: string;
-  }
+  }>
 }
 
-const Page = ({ params }: PageProps) => {
-  const { slug } = params;
+const Page = async ({ params }: Props) => {
+  const { slug } = await params;
   
   return (
     <>
