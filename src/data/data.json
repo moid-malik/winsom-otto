@@ -5,7 +5,7 @@
     "category": "best-seller",
     "slug": "shalimar",
     "images": [
-      "https://elyscents.pk/cdn/shop/files/royaloud.jpg?v=1720595888&width=360"
+      "/products/product1.png"
     ],
     "description": "Shalimar is a luxurious oriental fragrance by Guerlain, featuring notes of bergamot, iris, jasmine, rose, and vanilla. It has been a timeless classic since its release in 1925.",
     "price": 4369,
@@ -22,7 +22,7 @@
     "category": "for-women",
     "slug": "poison",
     "images": [
-      "https://elyscents.pk/cdn/shop/files/exoticplus.jpg?v=1720592826&width=360"
+      "/products/product2.png"
     ],
     "description": "Poison by Christian Dior is a bold and mysterious floral fragrance, blending notes of coriander, tuberose, and opopanax. Since its launch in 1985, it has become synonymous with seduction and allure.",
     "price": 8120,
@@ -39,7 +39,7 @@
     "category": "new-arrival",
     "slug": "la-vie-est-belle",
     "images": [
-      "https://elyscents.pk/cdn/shop/files/salsaspirit.jpg?v=1720595948&width=360"
+      "/products/product3.png"
     ],
     "description": "La Vie Est Belle by Lancôme is a sweet and elegant gourmand fragrance featuring iris, patchouli, and vanilla, making life more beautiful with every spray.",
     "price": 4799,
@@ -56,7 +56,7 @@
     "category": "for-men",
     "slug": "acqua-di-gio",
     "images": [
-      "https://elyscents.pk/cdn/shop/files/wildessence.jpg?v=1720596101&width=360"
+      "/products/product4.png"
     ],
     "description": "Acqua di Gio by Giorgio Armani is a fresh, aquatic fragrance with citrus and marine notes, perfect for a clean and masculine scent.",
     "price": 1500,
@@ -73,7 +73,7 @@
     "category": "best-seller",
     "slug": "acqua-di-gio-2",
     "images": [
-      "https://elyscents.pk/cdn/shop/files/millions1.jpg?v=1740491796&width=360"
+      "/products/product5.webp"
     ],
     "description": "Acqua di Gio by Giorgio Armani is a fresh, aquatic fragrance with citrus and marine notes, perfect for a clean and masculine scent.",
     "price": 2599,
@@ -90,7 +90,7 @@
     "category": "new-arrival",
     "slug": "acqua-di-gio-3",
     "images": [
-      "https://elyscents.pk/cdn/shop/files/apex_03b2fe64-7c07-4a04-bdc9-767ef83d9e6e.jpg?v=1720592504&width=360"
+      "/products/product6.png"
     ],
     "description": "Acqua di Gio by Giorgio Armani is a fresh, aquatic fragrance with citrus and marine notes, perfect for a clean and masculine scent.",
     "price": 3667,
@@ -107,7 +107,7 @@
     "category": "for-men",
     "slug": "acqua-di-gio-2",
     "images": [
-      "https://elyscents.pk/cdn/shop/files/millions1.jpg?v=1740491796&width=360"
+      "/products/product7.png"
     ],
     "description": "Acqua di Gio by Giorgio Armani is a fresh, aquatic fragrance with citrus and marine notes, perfect for a clean and masculine scent.",
     "price": 7350,
@@ -124,7 +124,7 @@
     "category": "best-seller",
     "slug": "acqua-di-gio-3",
     "images": [
-      "https://elyscents.pk/cdn/shop/files/apex_03b2fe64-7c07-4a04-bdc9-767ef83d9e6e.jpg?v=1720592504&width=360"
+      "/products/product8.png"
     ],
     "description": "Acqua di Gio by Giorgio Armani is a fresh, aquatic fragrance with citrus and marine notes, perfect for a clean and masculine scent.",
     "price": 2950,
@@ -141,7 +141,7 @@
     "category": "for-men",
     "slug": "acqua-di-gio",
     "images": [
-      "https://elyscents.pk/cdn/shop/files/wildessence.jpg?v=1720596101&width=360"
+      "/products/product9.png"
     ],
     "description": "Acqua di Gio by Giorgio Armani is a fresh, aquatic fragrance with citrus and marine notes, perfect for a clean and masculine scent.",
     "price": 5321,
@@ -158,7 +158,7 @@
     "category": "new-arrival",
     "slug": "acqua-di-gio-2",
     "images": [
-      "https://elyscents.pk/cdn/shop/files/millions1.jpg?v=1740491796&width=360"
+      "/products/product10.png"
     ],
     "description": "Acqua di Gio by Giorgio Armani is a fresh, aquatic fragrance with citrus and marine notes, perfect for a clean and masculine scent.",
     "price": 8821,
@@ -175,7 +175,7 @@
     "category": "best-seller",
     "slug": "mystic-essence",
     "images": [
-      "https://elyscents.pk/cdn/shop/files/royaloud.jpg?v=1720595888&width=360"
+      "/products/product11.png"
     ],
     "description": "Mystic Essence is a captivating fragrance that blends spicy, woody, and floral notes for a mesmerizing, unforgettable scent.",
     "price": 3200,
@@ -192,7 +192,7 @@
     "category": "for-women",
     "slug": "eternal-glow",
     "images": [
-      "https://elyscents.pk/cdn/shop/files/exoticplus.jpg?v=1720592826&width=360"
+      "/products/product12.png"
     ],
     "description": "Eternal Glow is a floral scent with hints of jasmine, amber, and patchouli that create a warm and captivating fragrance.",
     "price": 5399,
@@ -209,7 +209,7 @@
     "category": "new-arrival",
     "slug": "midnight-breeze",
     "images": [
-      "https://elyscents.pk/cdn/shop/files/salsaspirit.jpg?v=1720595948&width=360"
+      "/products/product13.png"
     ],
     "description": "Midnight Breeze offers an enchanting fragrance with rich floral notes of rose, violet, and a touch of sandalwood for a luxurious scent.",
     "price": 7995,
@@ -226,7 +226,7 @@
     "category": "new-arrival",
     "slug": "la-vie-est-belle",
     "images": [
-      "https://elyscents.pk/cdn/shop/files/salsaspirit.jpg?v=1720595948&width=360"
+      "/products/product14.png"
     ],
     "description": "La Vie Est Belle by Lancôme is a sweet and elegant gourmand fragrance featuring iris, patchouli, and vanilla, making life more beautiful with every spray.",
     "price": 4799,
